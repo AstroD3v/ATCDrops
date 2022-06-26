@@ -1,0 +1,14 @@
+{
+  "name": "ATCDrops",
+  "version": "1.0.0",
+  "description": "Programa automatizado de compra para moredrops.cl ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AstroD3v",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.1.0"
+  }
+}
